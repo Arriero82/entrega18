@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc1"
+  },
+  "name": "Gabo",
+  "message": "Buen día, como estás?"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc2"
+  },
+  "name": "Laura",
+  "message": "Buenos días, muy bien, gracias"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc3"
+  },
+  "name": "Gabo",
+  "message": "Estoy buscando un SUV, que podes recomendar?"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc4"
+  },
+  "name": "Laura",
+  "message": "Tenemos varios, de distintas marcas, alguna que prefieras?"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc5"
+  },
+  "name": "Gabo",
+  "message": "Jeep o Ford, que modelos tienen?"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc6"
+  },
+  "name": "Laura",
+  "message": "de Ford tenemos Puma y Bronco, de Jeep tenemos Wrangler"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc7"
+  },
+  "name": "Gabo",
+  "message": "Cual es el que tiene mejor consumo en ciudad?"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc8"
+  },
+  "name": "Laura",
+  "message": "Puma, tiene un motor muy eficiente para trafico urbano"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bc9"
+  },
+  "name": "Gabo",
+  "message": "Se puede ver y probar?"
+},{
+  "_id": {
+    "$oid": "63575465c3490d2353885bca"
+  },
+  "name": "Laura",
+  "message": "Debe acercarse a nuestro showroom de 9 a 17"
+},{
+  "_id": {
+    "$oid": "6357d9219a8747fff3e3714a"
+  },
+  "name": "Gabo",
+  "message": "probando que solo lea"
+}]
